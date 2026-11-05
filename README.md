@@ -17,12 +17,12 @@
 
 ## Лабораторные работы
 
-* [Лабораторная работа №1 — «Установка GNS3 и базовая настройка»](lab1/report.md)
+* [Лабораторная работа №1 — «Установка GNS3 и базовая настройка»]([lab1/report.md](https://github.com/Georgy-Titov/gns3-nfv-labs/blob/main/labs_reports/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D1%85_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9_1.pdf))
 * [Лабораторная работа №2 — «Настройка маршрутизатора SONiC в GNS3 и построение
-простой сети»](lab2/report.md)
+простой сети»]([lab2/report.md](https://github.com/Georgy-Titov/gns3-nfv-labs/blob/main/labs_reports/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D1%85_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9_2.pdf))
 * [Лабораторная работа №3 — « Настройка VXLAN в GNS3 на базе двух маршрутизаторов
 SONiC
-»](lab3/report.md)
+»]([lab3/report.md](https://github.com/Georgy-Titov/gns3-nfv-labs/blob/main/labs_reports/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D1%85_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9_3.pdf))
 * [Лабораторная работа №4 — «SDN: OpenFlow 1.3, Open vSwitch и контроллер
 OpenDaylight
-»](lab4/report.md)
+»]([lab4/report.md](https://github.com/Georgy-Titov/gns3-nfv-labs/blob/main/labs_reports/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D1%85_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9_4.pdf))
