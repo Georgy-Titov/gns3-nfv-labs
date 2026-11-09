@@ -26,3 +26,8 @@ SONiC
 * [Лабораторная работа №4 — «SDN: OpenFlow 1.3, Open vSwitch и контроллер
 OpenDaylight
 »](https://github.com/Georgy-Titov/gns3-nfv-labs/blob/main/labs_reports/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D1%85_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9_4.pdf)
+* [Лабораторная работа №5 — «Мультивендорная корпоративная сеть: MikroTik CHR как виртуальный пограничный маршрутизатор (vCPE)
+»](https://github.com/Georgy-Titov/gns3-nfv-labs/blob/main/labs_reports/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D1%85_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9_5.pdf)
+* [Лабораторная работа №6 — «Цепочка сервисных функций (SFC) и жизненный цикл VNF
+под управлением SDN
+»](https://github.com/Georgy-Titov/gns3-nfv-labs/blob/main/labs_reports/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D1%8B%D1%85_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B9_6.pdf)
